@@ -10,7 +10,7 @@ Notes.
 
 ## Ruby
 
-[Dynamic](#Static-vs-Dynamic-Typing), [interpreted](#Interpreted-vs-Compiled-Language), reflective, object-oriented, general-purpose programming language.
+[Dynamic](#Static-vs-Dynamic-Typing), [interpreted](#Interpreted-vs-Compiled-Language), [reflective](#reflective-programming), object-oriented, general-purpose programming language.
 
 
 ## Ruby On Rails
@@ -59,3 +59,7 @@ dynamicVar2 = 1                 # is also fine
 isStr1 = isinstance(dynamicVar1, str)  # returns true at runtime
 isStr2 = isinstance(dynamicVar2, str)  # returns false at runtime
 ```
+
+#### Reflective Programming
+
+*"As a concrete definition, reflection is the ability of a computer program to examine and modify the structure and behavior (specifically the values, meta-data, properties and functions) of a program at runtime"*[ref](https://thesocietea.org/2016/02/programming-concepts-type-introspection-and-reflection/)

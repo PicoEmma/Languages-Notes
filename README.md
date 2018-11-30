@@ -32,8 +32,9 @@ Ruby on Rails (ROL) is a web app development framework written in Ruby. It is op
 
 Quick reference
 
-1. [Interpreted vs Compiled-Language](Interpreted-vs-Compiled-Language)
-1. [Static vs Dynamic Typing](Static-vs-Dynamic-Typing)
+1. [Interpreted vs Compiled-Language](#Interpreted-vs-Compiled-Language)
+1. [Static vs Dynamic Typing](#Static-vs-Dynamic-Typing)
+1. [Reflective Programming](#reflective-programming)
 
 #### Interpreted vs Compiled Languages
 

@@ -10,7 +10,7 @@ Notes.
 
 ## Ruby
 
-[Dynamic](#Static-vs-Dynamic-Typing), interpreted, reflective, object-oriented, general-purpose programming language.
+[Dynamic](#Static-vs-Dynamic-Typing), [interpreted](#Interpreted-vs-Compiled-Language), reflective, object-oriented, general-purpose programming language.
 
 
 ## Ruby On Rails
@@ -31,6 +31,15 @@ Ruby on Rails (ROL) is a web app development framework written in Ruby. It is op
 ## Definitions
 
 Quick reference
+
+1. [Interpreted vs Compiled-Language](Interpreted-vs-Compiled-Language)
+1. [Static vs Dynamic Typing](Static-vs-Dynamic-Typing)
+
+#### Interpreted vs Compiled Languages
+
+Note: Technically, any language could be either of these. Typically a language is designated as "interpreted" or "compiled" by their canonical implementation being an Interpreter or a Compiler.
+
+Just look at the wiki. [ref](https://en.wikipedia.org/wiki/Interpreter_(computing)#Compilers_versus_interpreters)
 
 #### Static vs Dynamic Typing
 

@@ -1,6 +1,6 @@
 # Languages-Notes
 
-Notes.
+Opinionated notes about languages I've learned and how to use them.
 
 # Contents
 
@@ -10,7 +10,7 @@ Notes.
 
 ## Ruby
 
-[Dynamic](#Static-vs-Dynamic-Typing), [interpreted](#Interpreted-vs-Compiled-Language), [reflective](#reflective-programming), object-oriented, general-purpose programming language.
+[Dynamic](#Static-vs-Dynamic-Typing), [interpreted](#Interpreted-vs-Compiled-Language), [reflective](#reflective-programming), [object-oriented](#object-oriented-vs-functional-programming), general-purpose programming language.
 
 
 ## Ruby On Rails
@@ -32,9 +32,14 @@ Ruby on Rails (ROL) is a web app development framework written in Ruby. It is op
 
 Quick reference
 
+1. [Object-Oriented vs Functional Programming](#object-oriented-vs-functional-programming)
 1. [Interpreted vs Compiled-Language](#Interpreted-vs-Compiled-Language)
 1. [Static vs Dynamic Typing](#Static-vs-Dynamic-Typing)
 1. [Reflective Programming](#reflective-programming)
+
+#### Object-Oriented vs Functional Programming
+
+TODO
 
 #### Interpreted vs Compiled Languages
 

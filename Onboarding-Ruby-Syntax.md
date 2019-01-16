@@ -1,12 +1,18 @@
 # Onboarding Ruby Syntax
 
+## Contents
+
+1. [Quick Links](#quick-links)
+*  [Simple Syntax](#simple-syntax)
+*  [Assignment Syntax](#assignment-syntax)
+
 ## Quick Links
 
 * [Operators](https://www.tutorialspoint.com/ruby/ruby_operators.htm)
 * [Syntax](https://www.tutorialspoint.com/ruby/ruby_syntax.htm)
 * [Keywords](https://docs.ruby-lang.org/en/2.2.0/keywords_rdoc.html)
 
-## Syntax
+## Simple Syntax
 
 `()` is optional when calling a method that takes no arguments. But I'm going to use it because I hate freedom.
 
@@ -88,10 +94,9 @@ barbecue3.what_to_cook
 
 [ref](https://www.quora.com/What-is-the-difference-between-and-in-Ruby-1)
 
-## Assignment
+## Assignment Syntax
 
-`a ||= b` assigns value of `b` to `a` unless a already is assigned (`false` and `nil` is considered **not** assigned, even if I write `a = false`)
+`a ||= b` assigns value of `b` to `a` unless a already is assigned (`false` and `nil` is considered **not** assigned, even if `a = false` is explicitly written somewhere. See note below.)
 
-
-When tested for truth, only false and nil evaluate to a false value. Everything else is true (including 0, 0.0, "", and []).
+When tested for truth, only `false` and `nil` evaluate to a false value. Everything else is true (including `0`, `0.0`, `""`, and `[]`).
 

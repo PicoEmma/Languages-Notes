@@ -3,8 +3,8 @@
 ## Contents
 
 1. [Quick Links](#quick-links)
-*  [Simple Syntax](#simple-syntax)
-*  [Assignment Syntax](#assignment-syntax)
+2. [Simple Syntax](#simple-syntax)
+3. [Assignment Syntax](#assignment-syntax)
 
 ## Quick Links
 

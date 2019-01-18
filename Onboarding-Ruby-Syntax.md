@@ -102,4 +102,4 @@ When tested for truth, only `false` and `nil` evaluate to a false value. Everyth
 
 ## Methods
 
-"If we don’t do anything else, then a method will return the return value of the last evaluated statement." (source)[http://ruby-for-beginners.rubymonstas.org/writing_methods/return_values.html]
+"If we don’t do anything else, then a method will return the return value of the last evaluated statement." [source](http://ruby-for-beginners.rubymonstas.org/writing_methods/return_values.html)

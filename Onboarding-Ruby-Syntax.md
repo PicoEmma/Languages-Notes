@@ -100,3 +100,6 @@ barbecue3.what_to_cook
 
 When tested for truth, only `false` and `nil` evaluate to a false value. Everything else is true (including `0`, `0.0`, `""`, and `[]`).
 
+## Methods
+
+"If we don’t do anything else, then a method will return the return value of the last evaluated statement." (source)[http://ruby-for-beginners.rubymonstas.org/writing_methods/return_values.html]
